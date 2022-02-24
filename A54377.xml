@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Perkins's letter to Mr. Cornwell And other ministers at Tunbridge-Wells, who denied him the use of the pulpit there. And have not answered the letter, as desired.</title>
+            <author>Perkins, Joseph, b. 1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54377</idno>
+            <idno type="STC">Wing P1557</idno>
+            <idno type="STC">ESTC R220513</idno>
+            <idno type="EEBO-CITATION">99831911</idno>
+            <idno type="PROQUEST">99831911</idno>
+            <idno type="VID">36378</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54377)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36378)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2129:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Perkins's letter to Mr. Cornwell And other ministers at Tunbridge-Wells, who denied him the use of the pulpit there. And have not answered the letter, as desired.</title>
+                  <author>Perkins, Joseph, b. 1658.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed, and sold by J. Bradford in New-street without Bishops-gate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>Stained and tightly bound.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Perkins, Joseph, b. 1658 --  Early works to 1800.</term>
+               <term>Clergy --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36378:1"/>
+            <!-- PDF PAGE 115 -->
+            <p>Mr. <hi>Perkins</hi>'s LETTER TO Mr. <hi>Cornwell.</hi> And other MINISTERS AT <hi>Tunbridge-wells.</hi>
+            </p>
+            <p>Who denied him the Uſe of the Pulpit there.</p>
+            <p>And have not Anſwered the Letter, as deſired.</p>
+            <p>
+               <hi>LONDON</hi> Printed, and Sold by <hi>J. Bradford</hi> in <hi>New-ſtreet</hi> without <hi>Biſhopſ<g ref="char:EOLhyphen"/>gate.</hi>
+            </p>
+            <pb facs="tcp:36378:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 116 -->
+            <pb facs="tcp:36378:2"/>
+            <!-- PDF PAGE 116 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:36378:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 117 -->
+            <pb n="3" facs="tcp:36378:3"/>
+            <!-- PDF PAGE 117 -->
+            <head>Mr. <hi>Perkins</hi>'s Letter to Mr. <hi>Cornwell</hi> and other Miniſters at <hi>Tunbridge-wells,</hi> &amp;c.</head>
+            <opener>
+               <salute>Reverend Sir,</salute>
+            </opener>
+            <p>I cannot blame you much for denying me the uſe of your Pulpit, ſince you did it not of your <hi>own accord,</hi> but by the Inſtigation of <hi>other Clergy-men,</hi> with whom you conſulted, and who diſwaded you, by tel<g ref="char:EOLhyphen"/>ling you that <hi>I ſhould make ſome begging Buſineſs of it</hi> I deſired to know who they were that had thus advi<g ref="char:EOLhyphen"/>ſed you, whom you thought not fit to Inform me of. But becauſe you know them, I deſire you to ask them, How they knew <hi>I ſhould make a Begging Buſineſs</hi> of it? Whether having Preached above 1000 times, I ever yet Preached a <hi>Begging</hi> Sermon I never yet did. But this I confeſs, I have ſome<g ref="char:EOLhyphen"/>times commended Charity and good Works [<hi>not tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I ſpake in reſpect of Want; or, that I deſired it ſhould be ſo done unto me,</hi> But] for the <hi>Temporal</hi> Good of the Poor Receivers, and the Eternal Good of the Rich Givers, without any the leaſt Reſpect to the pre<g ref="char:EOLhyphen"/>ſent Gain to my ſelf. If I muſt Proclaim my own <hi>Prai<g ref="char:EOLunhyphen"/>ſes,</hi> they ought to Pardon my <hi>Boaſting,</hi> who by thei<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Falſe Accuſations have <hi>compelled</hi> me thereunto. Be it known therefore to all Men by theſe Preſents, tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I <hi>Joſeph Perkins</hi> did lately offer to the Church
+<pb n="4" facs="tcp:36378:4"/>
+               <!-- PDF PAGE 118 -->wardens, <hi>&amp;c.</hi> of the Pariſh of <hi>White-Chappel</hi> to Preach there [Memoriter] once or twice every Lord's-day in the Year [Gratis] as my Kinſman <hi>Perkins</hi> did in <hi>Cambridge,</hi> and as Chriſt has Commanded us <hi>[Freely ye have received, freely give]</hi> that ſo they might be more Encouraged, and the better Enabled to Relieve the <hi>Poor</hi> among them: The <hi>Parſonage</hi> being worth (as is Reported) ſix or ſeven Hundred Pounds a Year. And leſt it ſhould be thought that I expected, not<g ref="char:EOLhyphen"/>withſtanding, ſome great Gratuity by the By, I de<g ref="char:EOLhyphen"/>clared further that I would never take any Reward of them, either Openly or Secretly, either Directly or Indirectly; but get my Living (as St. <hi>Paul</hi> ſome<g ref="char:EOLhyphen"/>times did) by my own Art and Induſtery: And hereof I have Witneſs, and hereunto I have long ſince put my hand and ſeal. Therefore I am no <hi>Begging</hi> Preacher, except I Begg for others; And this I was Reſolved on before, that if I Preached at the <hi>Wells,</hi> and Money ſhould be given me, to give it all entirely to the <hi>Poors</hi> Box, and not play <hi>Ananias</hi> part in keep<g ref="char:EOLhyphen"/>ing back any the leaſt part of the Price, notwith<g ref="char:EOLhyphen"/>ſtanding I am very Poor my ſelf. But are not theſe Men <hi>
+                  <g ref="char:V">Ʋ</g>ncharitable</hi> in <hi>Cenſuring</hi> me thus? Charity thinks no Evil. I had need therefore to Preach a Lecture of <hi>Charity</hi> to my Brethren, to keep them from <hi>Raſh</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>ncharitable Judging.</hi> But they think, and ſome have called me a <hi>Vagabond,</hi> &amp;c. I anſwer, that ſo many of them have gotten <hi>Pluralities,</hi> that many others (perhaps as well Deſerving as them<g ref="char:EOLhyphen"/>ſelves)
+<pb n="5" facs="tcp:36378:4"/>
+               <!-- PDF PAGE 118 -->muſt be content to go without any. But then they'll tell me, that I may eaſily get a <hi>Readers</hi> Place, which is better than to run about the <hi>Country</hi> with my <hi>Poetry.</hi> I anſwer, that thoſe Doctors and Biſhops that cannot Preach <hi>without Book,</hi> are the fitteſt to make Readers of, and thoſe to whom God has been Pleas'd to give the Gifts of Memory and Utterance, are fit<g ref="char:EOLhyphen"/>teſt for the <hi>Pulpit</hi> (<hi>Ex quovis</hi> ligno <hi>non fit</hi> Mercurius) But he is a <hi>poor</hi> Man, ſay they, and therefore not fit to Preach before <hi>great</hi> Ones. Very right; for (ſaith <hi>Solomon</hi>) <hi>The poor Mans Wiſdom is deſpiſed, and his Words are not heard.</hi> Perhaps, if I had been a Biſhop, I had been as fitly qualified to Preach before a Prin<g ref="char:EOLhyphen"/>ceſs as an <hi>Iriſh</hi> Biſhop. But I did not deſire to take the Pulpit before theſe Reverend Readers; ſome of whom I have heard ſpeak very ſlightly of Preaching <hi>without Book:</hi> But I refer all thoſe (and all thoſe too that ſpeak Contemptibly of Latin Poetry) for an Anſwer to the Fables of the Fox and the Grapes, and the Fox without a Tail. But what foul Injuſtice is this, for Clergy-men by their Pluralities and Co<g ref="char:EOLhyphen"/>vetouſneſs to force their Underling-Curates to be Poor, and then to Upbraid them with their Poverty, to force them to turn Poets, and then Jeer them for writing School-Boys Exerciſe! But how is it poſſible for me to be Rich, who have been almoſt five Years in a ſervice, and abuſed at Sea for diſcovering of <hi>Thieft,</hi> worſe than a Slave in <hi>Turkey,</hi> without a Penny of Wages, having withal a Charge of Children? But
+<pb n="6" facs="tcp:36378:5"/>
+               <!-- PDF PAGE 119 -->what if I am Poor, and go about? So did my Brother <hi>Homer;</hi> ſo did Chriſt and his Diſciples go about doing good, and Lived by <hi>Alms,</hi> and <hi>Judas</hi> carried the <hi>Bag,</hi> and Chriſt himſelf was ſo poor that he had not where to hide his Head. But 'tis no wonder that a Prophet (that is) a Poet, has no Honour in his own Coun<g ref="char:EOLhyphen"/>try. And thoſe that Deſpiſe me for my Poverty, let them know, that <hi>he that Deſpiſeth the Poor, Reproach<g ref="char:EOLhyphen"/>eth his Maker.</hi> But poſſibly they that hindred me from the Duty, think they can do it better themſelves. I anſwer, They have a good <hi>Opinion</hi> of themſelves, and is Inconſiſtent with <hi>Modeſty</hi> and <hi>Humility,</hi> which teaches us to <hi>Eſteem</hi> others <hi>better</hi> than our ſelves. But what if ſome of theſe <hi>Reverend Readers</hi> ſhould think that if my <hi>Candle</hi> ſhould be ſet up on the <hi>Candle<g ref="char:EOLhyphen"/>ſtick,</hi> it would Eclipſe the Light of theirs, and there<g ref="char:EOLhyphen"/>fore would ſtill keep it under a <hi>Buſhel,</hi> or put it quite out, if they could; juſt as the <hi>Indian Queen,</hi> who be<g ref="char:EOLhyphen"/>ing Black, and deformed her ſelf, would admit of none that were Fair and Comly in her Court and Service, leſt <hi>Joan</hi> ſhould be perferr'd before my Lady. O Injuſtice! The Labourer is worthy of his hire; But you will not let him Labour, that ſo he may have no Plea for his Hire; you will not ſuffer the Ox to tread out the Corn, that ſo you may have a fair pretence for muzzleing up his Mouth. But whoever they are that have <hi>hindred</hi> me from Preaching, I de<g ref="char:EOLhyphen"/>ſire them, when they Read the Exhortation before the receiving of the Communion, ſeriouſly to Con<g ref="char:EOLhyphen"/>ſider
+<pb n="7" facs="tcp:36378:5"/>
+               <!-- PDF PAGE 119 -->of theſe words. Therefore if any of you be a <hi>Hinderer</hi> or a <hi>Slanderer of God</hi>'s Word, <hi>or</hi> be in <hi>Envy</hi> or <hi>Malice,</hi> or <hi>Guilty</hi> of <hi>any other grievous Crime, Repent ye, or elſe come not to this Holy Sacrament.</hi> And more<g ref="char:EOLhyphen"/>over let all thoſe my ſecret Accuſers know, that by Slandering me and my Doctrine, to the prejudice of the Goſpel, they do withal caſt a foul <hi>Aſperſion</hi> on all thoſe Seven <hi>Lords</hi> a <hi>Dean</hi> and <hi>Chancellor,</hi> by Te<g ref="char:EOLhyphen"/>ſtifying <hi>contrary</hi> to what all theſe, and many other Per<g ref="char:EOLhyphen"/>ſons of <hi>Honour</hi> and Reputation have both Teſtified and are ready to Teſtifie. Therefore let them look to it, that thus inpudently without any ground, fling Dirt in the Faces of, and give the Lie, to many of the Nobility and Clergy, who have Honoured me with as good Teſtimonials as any of my Adverſaries can produce. But laſtly, if my Accuſers ſpake Truth, and their Complaint were juſt, what need they to conceal their Names? This is the worſt kind of Slandering (ſaith the Author of <hi>The whole Duty of Man</hi>) for by Whiſpering a Mans good Name is ſtolen from him, and he can never find out the Thief. But he that knows the Author of an ill Report, and will not in<g ref="char:EOLhyphen"/>form the injur'd Perſon, is thereby become an <hi>Abet<g ref="char:EOLhyphen"/>tor</hi> to thoſe <hi>Murderers,</hi> and a <hi>Receiver</hi> to thoſe <hi>Thieves,</hi> and are both equally <hi>Criminal;</hi> againſt whom this Curſe is threatned, <hi>Wo be to him that ſmiteth his Neigh<g ref="char:EOLhyphen"/>bour ſecretly.</hi> I am ſorry that you ſhould be ſo ready to believe Evil of me, as to ſet your Ears wide open to the Detractions of my ſecret Enemies. You ſhould
+<pb n="8" facs="tcp:36378:6"/>
+               <!-- PDF PAGE 120 -->do much better (as Biſhop <hi>Sanderſon</hi> ſaith) to ſuſpect him as an Imp of <hi>Satan</hi> that delights ſo much in doing Satans <hi>Buſineſs,</hi> in being an <hi>Accuſer</hi> of the <hi>Brethren.</hi>
+            </p>
+            <closer>
+               <salute>Farewel.</salute>
+            </closer>
+            <epigraph>
+               <q>Semper Ego Auditor tantu? nunquamne reponam vexatus toties? <bibl>Juvenal.</bibl>
+               </q>
+            </epigraph>
+         </div>
+         <div type="poem">
+            <div type="original">
+               <head>In Concionatores quoſdam Mercenarios.</head>
+               <l>
+                  <note n="*" place="margin">Haleus Jakelus, <hi>&amp;c.</hi>
+                  </note>
+                  <hi>BUrchius Argento</hi> conductus Roſtra fagitat:</l>
+               <l>
+                  <hi>Praemia</hi> ſi tollas, Burchius Ille <hi>ſilet.</hi>
+               </l>
+               <l>Ah! Te facundum fuvi ſpes rddidit <hi>auri:</hi>
+               </l>
+               <l>
+                  <hi>Hac demptâ,</hi> taciti <hi>Piſcis</hi> ad inſtar eris.</l>
+               <l>
+                  <hi>Hiſtrio, Tibicines, Cantores, Cauſidicique:</hi>
+               </l>
+               <l>Hi vocem vendunt: <hi>Presbyterique</hi> pij.</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>nicus at <hi>Vates</hi> Contempius Ridiculaſque</l>
+               <l>
+                  <hi>Officium</hi> tantum,<note n="*" place="margin">Quis enim virtutem am<g ref="char:EOLhyphen"/>plectitur ip<g ref="char:EOLhyphen"/>ſam Premia ſi tollas? Ju<g ref="char:EOLhyphen"/>venal</note> 
+                  <hi>Premia</hi> nulla petit.</l>
+               <l>
+                  <hi>Sol</hi> non conductus praebet ſua <hi>lumina</hi> Mundo:</l>
+               <l>Et non conductus <hi>munere</hi> fungor <hi>Ego.</hi>
+               </l>
+               <closer>
+                  <signed>Perkins.</signed>
+                  <dateline>
+                     <date>Auguſt Secundo,</date> Sole vix exorto.</dateline>
+               </closer>
+            </div>
+            <div type="translation">
+               <head>
+                  <hi>On the Mercenary Preachers, in</hi> Engliſh <hi>thus,</hi>
+               </head>
+               <l>WIth Bribes of <hi>Silver</hi> Burch is <hi>Hir'd</hi> to Preach:</l>
+               <l>Take away <hi>thoſe</hi> and <hi>he'll</hi> no longer Teach.</l>
+               <l>Alas 'tis <hi>Money</hi> makes him Eloquent;</l>
+               <l>His Voice is gone, when <hi>Golden Hopes</hi> are ſpent.</l>
+               <l>
+                  <hi>Actors</hi> and <hi>Fidlers, Songſters, Pleaders</hi> do</l>
+               <l>Their <hi>Voices</hi> ſell, and ſo do Preachers too.</l>
+               <l>One Prophet Vile and Scorned has Reguard</l>
+               <l>To th' Office only: Not to the Reward.</l>
+               <l>The Suns bright Flames to Mortals freely Shine;</l>
+               <l>And, whilſt I Preach for nothing, ſo do mine.</l>
+               <closer>
+                  <signed>Perkins.</signed>
+               </closer>
+               <epigraph>
+                  <q>
+                     <hi>Loripedem rectus derideat: Aethiopem Albus. <bibl>Juvenal.</bibl>
+                     </hi>
+                  </q>
+               </epigraph>
+               <trailer>FINIS.</trailer>
+            </div>
+            <pb facs="tcp:36378:6"/>
+            <!-- PDF PAGE 120 -->
+         </div>
+      </body>
+   </text>
+</TEI>
